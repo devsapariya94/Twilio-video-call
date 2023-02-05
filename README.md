@@ -9,6 +9,7 @@ Run following command in CMD
 git clone https://github.com/devsapariya94/Twilio-video-call
 cd Twilio-video-call
 npm install
+node server\Token.js
 npm run dev -- -p 8000
 ```
 
